@@ -1,0 +1,34 @@
+body{
+    background:rgb(54, 194, 54);
+    height: 1000px;
+    }
+    .address-icon i{
+    font-size: 36px;
+    line-height: 30px;
+    width: 100%;
+    }
+    .icons i{
+    color: #fff;
+    padding: 8px 0px;
+    text-align: center;
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+    }
+  
+    .fa-facebook{
+    background-color: #3A5A99;
+    border-radius: 5px;
+    }
+    .fa-twitter{
+    background-color: #39CBFA;
+    border-radius: 5px;
+    }
+    .fa-linkedin{
+    background-color: #3D99C0;
+    border-radius: 5px;
+    }
+    .fa-github{
+    background-color: #000;
+    border-radius: 5px;
+    }
